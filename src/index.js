@@ -5,7 +5,6 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 import YTSearch from 'youtube-api-search';
-//const API_KEY = 'AIzaSyB8TtcPb0suwIYmuunEsu75KwX45v4O61I';
 
 //Create a new componenet which should produce an HTML
 /*const App = function()  {
