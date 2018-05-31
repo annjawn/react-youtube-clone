@@ -1,25 +1,21 @@
-# ReduxSimpleStarter
+# A Weather app written on React, Redux
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Getting Started
 
-There are two methods for getting started with this repo.
+### Overview
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+This is a Youtube clone written in React and Redux.
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+#### Technology Stack
+This app makes use of the following Technologies
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+1. React JS framework
+2. React-redux framework
+3. Axios for Ajax requests
 
-```
-> npm install
-> npm start
-```
+#### How it works
+The app provides ability to search and play Youtube videos using youtube API. Search is perform in real time as the user types in search terms.
+
+<div align="center">
+    <img src="/resources/screenshot.png" width="800px"</img>
+</div>
